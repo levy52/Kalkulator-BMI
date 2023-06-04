@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BMI Kalkulator</string>
+    <string name="unit">Cm</string>
+    <string name="femaletext">Kobieta</string>
+    <string name="age">Wiek</string>
+    <string name="startingheight">170</string>
+    <string name="startingweight">55</string>
+    <string name="startingage">22</string>
+    <string name="todo">TODO</string>
+    <string name="height">Wzrost</string>
+    <string name="calculate_your_bmi">Oblicz swoje BMI</string>
+    <string name="weight">Waga</string>
+    <string name="male">Mężczyzna</string>
+
+</resources>
